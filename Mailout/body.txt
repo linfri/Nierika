@@ -1,0 +1,6 @@
+Hi, %s,
+
+Here's your code: %s (redeemable via https://something.bandcamp.com/yum)
+
+Best,
+Nierika Productions
